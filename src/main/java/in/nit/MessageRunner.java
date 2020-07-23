@@ -10,6 +10,8 @@ public class MessageRunner implements  CommandLineRunner{
 	public void run(String... args) throws Exception {
 		System.out.println("welcome to springboot app");
 		
+		System.out.println("modified to springboot app");
+		
 	}
 
 }
